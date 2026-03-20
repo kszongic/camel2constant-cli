@@ -1,0 +1,20 @@
+{
+  "name": "@kszongic/camel2constant-cli",
+  "version": "1.0.0",
+  "description": "Convert camelCase strings to CONSTANT_CASE from the command line. Zero dependencies.",
+  "main": "index.js",
+  "bin": {
+    "camel2constant": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["camelCase", "CONSTANT_CASE", "convert", "case", "cli", "string"],
+  "author": "kszongic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kszongic/camel2constant-cli"
+  },
+  "type": "commonjs"
+}
